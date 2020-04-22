@@ -6,5 +6,5 @@ Firstly the cells are initialized, each sell has a 10% of being a live cell (in 
 1) Any live cell with fewer than two live neighbours dies, as if by underpopulation.
 2) Any live cell with two or three live neighbours lives on to the next generation.
 3) Any live cell with more than three live neighbours dies, as if by overpopulation.
-4) Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
+4) Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.\
 *This implementation uses winbgi2 library, provided by [CCFD group at my faculty (MEiL)](http://ccfd.github.io/courses/)*
